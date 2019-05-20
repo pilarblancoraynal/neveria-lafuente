@@ -249,13 +249,14 @@ p {
 }
 
 .btn-primary {
-  background-color: rgb(9, 112, 247);
-  border-color: rgb(9, 112, 247);
+  background-color: rgb(9, 211, 247);
+  border-color: rgb(9, 211, 247);
+  
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: rgb(9, 211, 247);
-  border-color: rgb(9, 211, 247);
+  background-color: rgb(9, 112, 247);
+  border-color: rgb(9, 112, 247);
 }
 
 .font-weight-light {
