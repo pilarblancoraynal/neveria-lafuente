@@ -234,6 +234,9 @@ p {
   color: white;
   padding: 2%;
 }
+.social-icon:hover {
+ color: rgb(9, 112, 247);
+}
 
 .text-primary {
   color: rgb(9, 112, 247);
